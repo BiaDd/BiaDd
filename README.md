@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on my AI bot [Punko](https://github.com/BiaDd/Punko)!
 - 🌱 I’m currently learning Rust and Vue
 - 💬 Ask me about food!
-- 📫 How to reach me: [danxd3@gmail.com](dannxd3@gmail.com)
+- 📫 How to reach me: [dannxd3@gmail.com](dannxd3@gmail.com)
 - ⚡ Fun fact: I make beats
 
 <!--
