@@ -3,7 +3,7 @@
 - ⚡ I’m currently working on my AI bot [Punko](https://github.com/BiaDd/Punko)!
 - 🌱 I’m currently learning Rust and Vue
 - 🍔 Ask me about food!
-- 📫 How to reach me: [dannxd3@gmail.com](dannxd3@gmail.com)
+- 📫 [Contact Me!](mailto:dannxd3@gamil.com)
 - 🎺 Fun fact: I make [lofi beats](https://soundcloud.com/doodeedoo/yo-momma-so-beautiful-i-wanna-take-her-out-for-ice-cream?si=0c25deebf94e4f388f1f6146e0e08653&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing)
 
 <!--
